@@ -1,0 +1,33 @@
+{
+    "welcomeToStarter" : {
+        "en" : "Welcome to Starter!"
+    },
+
+    "dependencyList" : {
+        "en" : "This project is a template using Typescript, React Navigation and tsyringe"
+    },
+
+    "changeTo" : {
+        "en" : "Change to "
+    },
+
+    "showHelp" : {
+        "en" : "Help"
+    },
+
+    "showCredits" : {
+        "en" : "Credits"
+    },
+
+    "starterHelp" : {
+        "en" : "First steps"
+    },
+
+    "editThemes" : {
+        "en" : "> Add themes in @config/themes.json"
+    },
+
+    "editLanguages" : {
+        "en" : "> Add languages in @localization/translations.json"
+    }
+}
